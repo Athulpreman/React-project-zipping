@@ -14,7 +14,7 @@ Add your business logic
 
 ### Step 3
 
-Add the following line in the package.json file, just inside paranthesis.
+Add the following line in the package.json file, just inside curly bracket.
   
       "homepage": "./",
 
