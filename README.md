@@ -30,7 +30,7 @@ Now copy all the files and folder inside the build folder.
 
 Create a new widget project using the following command.
 
-  zet init
+  $ zet init
   
 ### Step 4
 
@@ -40,7 +40,7 @@ Now goto the widget folder -> app, delete the widget.html folder and paste all t
 
 Now zip the project using the following command.
 
-  zet pack
+  $ zet pack
   
 ### Step 6
 
