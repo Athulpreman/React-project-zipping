@@ -4,6 +4,16 @@ Demo link : https://zwdrive.com/c6aF7R
 
 ### Step 1
 
+Created a react project using the following command
+
+  $ npx create-react-app react-app
+ 
+### Step 2
+
+Add your buciness logic
+
+### Step 1
+
 Add the following line in the package.json file, just inside paranthesis.
   
   "homepage": "./",
@@ -12,7 +22,7 @@ Add the following line in the package.json file, just inside paranthesis.
 
 Run the following command in react project.
   
-  npm run build
+  $ npm run build
   
 Now copy all the files and folder inside the build folder.
 
