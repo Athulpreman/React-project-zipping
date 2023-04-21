@@ -10,7 +10,7 @@ Created a react project using the following command
  
 ### Step 2
 
-Add your buciness logic
+Add your business logic
 
 ### Step 3
 
